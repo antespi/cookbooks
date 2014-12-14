@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dirindex
 title: Minimal install from ISO
 ---
 

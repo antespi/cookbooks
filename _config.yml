@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Cookbooks
 tagline:          Text recepies for building linux servers on the cloud
-url:              http://antespi.github.io
+url:              http://cookbooks.aespinosa.es
 paginate:         1
 # baseurl:
 baseurl:          /cookbooks

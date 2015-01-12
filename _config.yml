@@ -8,7 +8,7 @@ tagline:          Text recepies for building linux servers on the cloud
 url:              http://cookbooks.aespinosa.es
 paginate:         1
 # baseurl:
-baseurl:          /
+baseurl:          ''
 author:
   name:           Antonio Espinosa
   url:            https://twitter.com/antespi
